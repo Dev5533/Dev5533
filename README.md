@@ -31,13 +31,7 @@
 
 ---
 
-### Featured Projects
 
-**HealthLens** (Private / Coming Soon)  
-AI-powered health assistant with symptom analysis, prescription parsing, and health news.  
-Built with Node.js, React, MongoDB, and OpenAI.
-
----
 
 ### Contact
 
