@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Dev Patel</h1>
 <h3 align="center">Web Developer | AI Application Builder | Java Enthusiast</h3>
 
-
 ---
 
 ### About Me
 - Currently building **HealthLens**, an AI-powered health assistant platform  
 - Exploring how **AI tools** can be integrated into real-world **web applications**  
 - Focused on backend architecture, API design, and frontend integrations  
-- Comfortable working with `Java`, `React`, `Node.js`, `MongoDB`, `Flask`  
+- Comfortable working with `Java`, `React`, `Node.js`, `MongoDB`, `MySQL`, `Flask`  
 - Open to roles in **Web Development** and **AI-backed application development**  
 - Reach me at: **devp8756@gmail.com**
 
@@ -17,7 +16,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,html,css,js,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,mysql,html,css,js,vscode,git,postman" />
 </p>
 
 ---
@@ -35,8 +34,8 @@
 ### Featured Projects
 
 **HealthLens** (Private / Coming Soon)  
-AI-powered health assistant with symptom analysis, prescription parsing, and health news. Built with Node.js, React, MongoDB, and OpenAI.
-
+AI-powered health assistant with symptom analysis, prescription parsing, and health news.  
+Built with Node.js, React, MongoDB, and OpenAI.
 
 ---
 
@@ -48,4 +47,3 @@ AI-powered health assistant with symptom analysis, prescription parsing, and hea
 </p>
 
 ---
-
