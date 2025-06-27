@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dev Patel</h1>
+<h3 align="center">Web Developer | AI Application Builder | Java Enthusiast</h3>
 
-<!--
-**Dev5533/Dev5533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Web+Developer;AI+Application+Builder;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Currently building **HealthLens**, an AI-powered health assistant platform  
+- Exploring how **AI tools** can be integrated into real-world **web applications**  
+- Focused on backend architecture, API design, and frontend integrations  
+- Comfortable working with `Java`, `React`, `Node.js`, `MongoDB`, `Flask`  
+- Open to roles in **Web Development** and **AI-backed application development**  
+- Reach me at: **devpatel5533@gmail.com**
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,flask,html,css,js,vscode,git" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev5533&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev5533&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev5533&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### Featured Projects
+
+**HealthLens** (Private / Coming Soon)  
+AI-powered health assistant with symptom analysis, prescription parsing, and health news. Built with Node.js, React, MongoDB, and OpenAI.
+
+**SupplyChainAI** (Private / Coming Soon)  
+AI-enhanced supply chain management dashboard with real-time data processing. Built using Flask, MongoDB, and external APIs.
+
+---
+
+### Contact
+
+<p>
+  <a href="mailto:devpatel5533@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/dev-patel5533"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
+</p>
+
+---
+
