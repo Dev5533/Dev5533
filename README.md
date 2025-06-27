@@ -35,7 +35,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65022904/212729141-b22a79cf-45a7-4a83-85a4-30e43debe5e3.png" width="700" />
 </p>
-</p>
 
 <p align="center"><i>From backend logic to frontend UX — built for scale and simplicity.</i></p>
 
