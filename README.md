@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Dev Patel</h1>
 <h3 align="center">Web Developer | AI Application Builder | Java Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Web+Developer;AI+Application+Builder;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -20,7 +17,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,flask,html,css,js,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,html,css,js,vscode,git" />
 </p>
 
 ---
@@ -40,16 +37,14 @@
 **HealthLens** (Private / Coming Soon)  
 AI-powered health assistant with symptom analysis, prescription parsing, and health news. Built with Node.js, React, MongoDB, and OpenAI.
 
-**SupplyChainAI** (Private / Coming Soon)  
-AI-enhanced supply chain management dashboard with real-time data processing. Built using Flask, MongoDB, and external APIs.
 
 ---
 
 ### Contact
 
 <p>
-  <a href="mailto:devpatel5533@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/dev-patel5533"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:devp8756@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/dev-patel-b448a22a7/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
