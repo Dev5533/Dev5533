@@ -10,7 +10,7 @@
 - Focused on backend architecture, API design, and frontend integrations  
 - Comfortable working with `Java`, `React`, `Node.js`, `MongoDB`, `Flask`  
 - Open to roles in **Web Development** and **AI-backed application development**  
-- Reach me at: **devpatel5533@gmail.com**
+- Reach me at: **devp8756@gmail.com**
 
 ---
 
